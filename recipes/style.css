@@ -1,13 +1,17 @@
 body{
     font-family: 'Times New Roman', Times, serif;
-
+    font-size: 24px;
 }
-h1{
+.title{
+    font-size: 28px;
     font-weight: bold;
-}
-
-ul{
     background-color: aqua;
     color: white;
-    font-size:24px;
+}
+.bold{
+    font-weight: bold;
+}
+.desc{
+    font-size: 20px;
+    
 }
